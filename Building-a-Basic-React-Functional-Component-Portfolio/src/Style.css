@@ -1,0 +1,35 @@
+body
+{
+    background-color: gray;
+}
+
+header
+{
+    display: flex;
+    justify-content: center;
+    color: white;
+    background-image: url(./Images/Header.jpeg);
+    background-size: contain;
+}
+
+.about 
+{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    margin: 10px;
+    background-color: lightblue;
+    border: 5px ridge gray;
+    color: white;
+}
+
+.contact
+{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    margin: 10px;
+    background-color: lightblue;
+    border: 5px ridge gray;
+    color: white;
+}
